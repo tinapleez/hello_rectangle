@@ -1,6 +1,6 @@
 # hello_rectangle
 
-Udacity Flutter course first project
+Udacity Flutter course first project in conjunction with Flutter Study Jam by GDG Suncoast August 2018
 
 ## Getting Started
 
